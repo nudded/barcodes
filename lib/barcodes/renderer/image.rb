@@ -4,7 +4,7 @@
 # Copyright:: Copyright (c) 2012 Infinite Token LLC
 # License::  MIT License
 
-require 'rmagick'
+require 'RMagick'
 
 module Barcodes
   module Renderer
